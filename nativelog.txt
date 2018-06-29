@@ -25,3 +25,5 @@ Found SetDllDirectoryW in kernel32.dll!
 Added C:\Program Files (x86)\Minecraft\game to DLL search path
 Running launcher!
 Launcher ended with 0
+
+NOVA LINHA ADICIONADA
